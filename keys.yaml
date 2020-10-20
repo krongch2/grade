@@ -1,0 +1,28 @@
+keys:
+  global:
+    'oops': 0
+  1a:
+    'empty': -8
+    'no m_l and m_s': -8
+    'no m_l or m_s': -4
+  2a:
+    'empty': -15
+    'no chi(t)': -8
+    'wrong chi(t)': -2
+    'no setup for prob': -5
+    'not evaluate prob': -2
+  2b:
+    'empty': -5
+    'not evaluate A': -1
+    'wrong setup': -2
+  2c:
+    'empty': -8
+    'no property': -8
+    'mentioned spin 1': -5
+    'not express the property': -3
+  3a:
+    'empty': -14
+    'wrong q numbers': -3
+    'wrong table': -6
+    'only mentioned cg': -7
+    'not use table': -11
